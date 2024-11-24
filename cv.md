@@ -1,5 +1,5 @@
 # Panasiuk Nikolay Nikolaevich
-<img src="./img/123.jpg" alt="photo" width="15%" align="right">
+<img src="./img/123.jpg" alt="photo" width="10%" align="right">
 
 * Phone number:
     * +375(33)6515224
