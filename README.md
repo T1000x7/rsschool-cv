@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://t1000x7.github.io/rsschool-cv/cv)
